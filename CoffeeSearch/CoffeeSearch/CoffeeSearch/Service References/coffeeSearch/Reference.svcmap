@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="73ab6ea7-9510-41e2-b02c-1f0cc4533179" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:12354/CoffeeSearch.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CoffeeSearch.disco" MetadataType="Disco" ID="af36c641-9b3b-40ad-a8f0-85c3beb8460c" SourceId="1" SourceUrl="http://localhost:12354/CoffeeSearch.svc?disco" />
+    <MetadataFile FileName="CoffeeSearch.xsd" MetadataType="Schema" ID="c08bc8c4-4d09-4d3c-911d-6953153d2ffb" SourceId="1" SourceUrl="http://localhost:12354/CoffeeSearch.svc?xsd=xsd2" />
+    <MetadataFile FileName="CoffeeSearch1.xsd" MetadataType="Schema" ID="1a7a3851-e515-4bc1-91d0-e7be0fc396f8" SourceId="1" SourceUrl="http://localhost:12354/CoffeeSearch.svc?xsd=xsd0" />
+    <MetadataFile FileName="CoffeeSearch2.xsd" MetadataType="Schema" ID="0d62fdce-12a3-4b35-a93b-dda7640c88b8" SourceId="1" SourceUrl="http://localhost:12354/CoffeeSearch.svc?xsd=xsd1" />
+    <MetadataFile FileName="CoffeeSearch.wsdl" MetadataType="Wsdl" ID="1e2775ad-85b0-4473-bc5f-602244b0ec68" SourceId="1" SourceUrl="http://localhost:12354/CoffeeSearch.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

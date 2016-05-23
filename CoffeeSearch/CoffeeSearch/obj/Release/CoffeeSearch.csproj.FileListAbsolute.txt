@@ -1,0 +1,6 @@
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSearch\CoffeeSearch\bin\CoffeeSearch.dll.config
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSearch\CoffeeSearch\bin\CoffeeSearch.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSearch\CoffeeSearch\bin\CoffeeSearch.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSearch\CoffeeSearch\obj\Release\CoffeeSearch.csprojResolveAssemblyReference.cache
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSearch\CoffeeSearch\obj\Release\CoffeeSearch.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSearch\CoffeeSearch\obj\Release\CoffeeSearch.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://10.1.17.115:31</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CoffeeSort.dll">
+      <publishTime>03/31/2016 09:03:18</publishTime>
+    </File>
+    <File Include="CoffeeSortForm.aspx">
+      <publishTime>03/31/2016 08:51:30</publishTime>
+    </File>
+    <File Include="coffeeSortService.svc">
+      <publishTime>03/17/2016 21:05:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/30/2016 12:21:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

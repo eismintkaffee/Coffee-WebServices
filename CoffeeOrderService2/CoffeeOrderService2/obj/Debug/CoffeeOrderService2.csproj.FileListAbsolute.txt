@@ -1,0 +1,12 @@
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\CoffeeOrderService2\bin\CoffeeOrderService2.dll.config
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\CoffeeOrderService2\bin\CoffeeOrderService2.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\CoffeeOrderService2\bin\CoffeeOrderService2.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\CoffeeOrderService2\obj\Debug\CoffeeOrderService2.csprojResolveAssemblyReference.cache
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\CoffeeOrderService2\obj\Debug\CoffeeOrderService2.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\CoffeeOrderService2\obj\Debug\CoffeeOrderService2.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\CoffeeOrderService2\bin\CoffeeOrderService2.dll.config
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\CoffeeOrderService2\bin\CoffeeOrderService2.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\CoffeeOrderService2\bin\CoffeeOrderService2.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\CoffeeOrderService2\obj\Debug\CoffeeOrderService2.csprojResolveAssemblyReference.cache
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\CoffeeOrderService2\obj\Debug\CoffeeOrderService2.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\CoffeeOrderService2\obj\Debug\CoffeeOrderService2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSort\CoffeeSort\bin\CoffeeSort.dll.config
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSort\CoffeeSort\bin\CoffeeSort.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSort\CoffeeSort\bin\CoffeeSort.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSort\CoffeeSort\obj\Release\CoffeeSort.csprojResolveAssemblyReference.cache
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSort\CoffeeSort\obj\Release\CoffeeSort.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeSort\CoffeeSort\obj\Release\CoffeeSort.pdb

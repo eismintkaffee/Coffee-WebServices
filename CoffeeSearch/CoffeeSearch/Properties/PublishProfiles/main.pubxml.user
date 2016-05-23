@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6iX2yn0pbUqORH7m4l0rvgAAAAACAAAAAAAQZgAAAAEAACAAAABcN/lNBnTkt85wd71HrFe0pLhttC/VE3AiF4mDLidFBgAAAAAOgAAAAAIAACAAAAAEdSdi1g6K+gKAbcFq8gvsAvf1k08BABkl5FtwFoZ3+BAAAAC0B4iwM8Y8NVK57DIeNeaFQAAAAESG8U0rz/4JBP4FyPb6xtDhVBEy/fXB02X4xSJtan9+bIFz4pe4H8O1lVXpVkcttybIWjDMfzIAVt36tXBzCEg=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.17.115:32</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CoffeeSearch.dll">
+      <publishTime>03/30/2016 23:09:38</publishTime>
+    </File>
+    <File Include="CoffeeSearch.svc">
+      <publishTime>03/18/2016 02:06:43</publishTime>
+    </File>
+    <File Include="CoffeeSearchForm.aspx">
+      <publishTime>03/30/2016 22:54:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/30/2016 23:09:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

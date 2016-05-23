@@ -1,0 +1,16 @@
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\bin\Debug\testCoffeeOrder.exe.config
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\bin\Debug\testCoffeeOrder.exe
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\bin\Debug\testCoffeeOrder.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\obj\Debug\testCoffeeOrder.csprojResolveAssemblyReference.cache
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\obj\Debug\testCoffeeOrder.exe
+C:\Users\Tiffu_000\Desktop\Assignment 3\Draft2\CoffeeOrderService2\testCoffeeOrder\obj\Debug\testCoffeeOrder.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\bin\Debug\testCoffeeOrder.exe.config
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\obj\Debug\testCoffeeOrder.exe
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\obj\Debug\testCoffeeOrder.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\bin\Debug\testCoffeeOrder.exe
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\bin\Debug\testCoffeeOrder.pdb
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tiffu_000\Desktop\Assignment 3\TiffanyUlepAssignment3services\CoffeeOrderService2\testCoffeeOrder\obj\Debug\testCoffeeOrder.csprojResolveAssemblyReference.cache
